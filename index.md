@@ -7,9 +7,9 @@ Ihr vollständiger Name lautet Pippilotta Viktualia Rollgardina Pfefferminza Eph
 ## Ihre Eigenschaften:
 
 * Sie ist das stärkste Mädchen der Welt.
-	* Sie bestreitet mit ihrem Vater, wenn sie sich treffen Kraftproben
+	* sie bestreitet mit ihrem Vater, wenn sie sich treffen, Kraftproben
 	* sie kann ein ganzes Pferd anheben
-	* sie besiegt einen Ringer im Zirkus.
+	* sie besiegt einen Ringer im Zirkus
 	
 * Weil sie ohne Eltern wohnt kann sie tun und lassen was sie möchte
 
