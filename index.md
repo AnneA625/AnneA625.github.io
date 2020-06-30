@@ -13,5 +13,5 @@ Ihr vollständiger Name lautet Pippilotta Viktualia Rollgardina Pfefferminza Eph
 	
 * Weil sie ohne Eltern wohnt kann sie tun und lassen was sie möchte
 
-
 >  "Oh", sagte Pippi, "ich muss heute wieder einen Glückstag haben. Polizisten sind das beste, was ich kenne - gleich nach Rhabarbergrütze."
+
