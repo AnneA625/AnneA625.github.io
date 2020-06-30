@@ -4,6 +4,8 @@ Pippi Langstrumpf ist ein kleines Mädchen mit roten Haaren und Zöpfen.
 Es hat einen Affen, der Herr Nilson heisst und ein Pferd.
 Ihr vollständiger Name lautet Pippilotta Viktualia Rollgardina Pfefferminza Ephraimstochter Langstrumpf.
 
+## Ihre Eigenschaften:
+
 * Sie ist das stärkste Mädchen der Welt.
 	* Sie bestreitet mit ihrem Vater, wenn sie sich treffen Kraftproben
 	* sie kann ein ganzes Pferd anheben
